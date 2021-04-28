@@ -20,8 +20,7 @@
 
 title: lr.cool
 email: i@lr.cool
-description: >- # this means to ignore newlines until "baseurl:"
-  酷酷滴LR © 2020 <a href="http://beian.miit.gov.cn/">粤ICP备2020108670号-1</a>
+description: "酷酷滴LR © 2020 <a href="http://beian.miit.gov.cn/">粤ICP备2020108670号-1</a>"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
